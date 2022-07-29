@@ -28,7 +28,7 @@ if escolha_pc == 3:
     elif escolha_jogador == 2:
         print('O computador escolheu Tesoura\n O jogador escolheu Papel \nresultado:\nComputador ganhou')
     elif escolha_jogador == 3:
-        print('O computador escolhue Tesoura \n O jogador escolheu Tesoura \nresultado: \nEmpate')
+        print('O computador escolheu Tesoura\n O jogador escolheu Tesoura \nresultado: \nEmpate')
     else:
         print('Até mais')
 
